@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Cougarnet Helpdesk Updates</title>
-        <link>http://localhost:8000</link>
+        <link>https://cnetdisplay.github.io/cougarnet-rss/</link>
         <description>Daily updates and tasks for the Cougarnet Helpdesk team</description>
         <language>en-us</language>
         <item>
