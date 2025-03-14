@@ -7,13 +7,13 @@
         <language>en-us</language>
         <item>
             <title>Task: Update Lab Computers</title>
-            <link>http://localhost:8000/task1</link>
+            <link>https://help.cuchicago.edu</link>
             <description>Update software on all lab computers by 3 PM.</description>
             <pubDate>Thu, 13 Mar 2025 09:00:00 CST</pubDate>
         </item>
         <item>
             <title>Announcement: Staff Meeting</title>
-            <link>http://localhost:8000/meeting</link>
+            <link>https://help.cuchicago.edu</link>
             <description>Team meeting at 1 PM in Room 203.</description>
             <pubDate>Thu, 13 Mar 2025 08:00:00 CST</pubDate>
         </item>
