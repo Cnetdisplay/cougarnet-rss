@@ -6,15 +6,15 @@
         <description>Daily updates and tasks for the Cougarnet Helpdesk team</description>
         <language>en-us</language>
         <item>
-            <title>Task: Update Lab Computers</title>
+            <title>Task: April 2nd!</title>
             <link>https://help.cuchicago.edu</link>
-            <description>Update software on all lab computers by 3 PM.</description>
+            <description>Students begin using Microsoft MFA</description>
             <pubDate>Thu, 13 Mar 2025 09:00:00 CST</pubDate>
         </item>
         <item>
-            <title>Announcement: Staff Meeting</title>
+            <title>New PPA-219</title>
             <link>https://help.cuchicago.edu</link>
-            <description>Team meeting at 1 PM in Room 203.</description>
+            <description>See Rob or a SM about training</description>
             <pubDate>Thu, 13 Mar 2025 08:00:00 CST</pubDate>
         </item>
     </channel>
