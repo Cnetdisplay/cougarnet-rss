@@ -6,9 +6,9 @@
         <description>Daily updates and tasks for the Cougarnet Helpdesk team</description>
         <language>en-us</language>
         <item>
-            <title>Task: April 2nd!</title>
+            <title>Announcement:</title>
             <link>https://help.cuchicago.edu</link>
-            <description>Students begin using Microsoft MFA</description>
+            <description>April 2nd, Students begin using Microsoft MFA</description>
             <pubDate>Thu, 13 Mar 2025 09:00:00 CST</pubDate>
         </item>
         <item>
@@ -16,6 +16,18 @@
             <link>https://help.cuchicago.edu</link>
             <description>See Rob or a SM about training</description>
             <pubDate>Thu, 13 Mar 2025 08:00:00 CST</pubDate>
+        </item> 
+        <item>
+            <title>Announcement:</title>
+            <link>https://help.cuchicago.edu</link>
+            <description>April 2nd, Students begin using Microsoft MFA</description>
+            <pubDate>Thu, 13 Mar 2025 09:00:00 CST</pubDate>
         </item>
+         <item>
+            <title>Helpdesk Phones</title>
+            <link>https://help.cuchicago.edu</link>
+            <description>Now Use A Call Queue. Set your desk status as available to recieve calls</description>
+            <pubDate>Thu, 13 Mar 2025 08:00:00 CST</pubDate>
+        </item> 
     </channel>
 </rss>
